@@ -1,0 +1,39 @@
+body {
+  background-color: #45c45c;
+  padding: 0;
+  margin: 0;
+}
+
+.box {
+  position: absolute;
+  margin: 40px;
+  padding: 20px 30px;
+}
+
+nav {
+  width: 100%;
+  height: 55px;
+  background-color: #ccc;
+}
+
+.searchbox {
+  background-color: #ccc;           
+  width: 500px;
+  height: 35px;
+  padding: 10px;
+  float: right;
+}
+
+.search {
+  padding: 5px 9px;
+  height: 23px;
+  width: 380px;
+  border: 1px solid #a4c3ca;
+  font-family: sans-serif;
+  background: #f1f1f1;
+  border-radius: 10px;          
+}
+
+.submit:hover {       
+    background-color: #95d788;
+}   
